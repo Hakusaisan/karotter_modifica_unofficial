@@ -1,0 +1,2 @@
+# karotter_modifica_unofficial
+Karotterの非公式アプリです。
