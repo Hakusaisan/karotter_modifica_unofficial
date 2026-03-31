@@ -1,2 +1,6 @@
 # karotter_modifica_unofficial
 Karotterの非公式アプリです。
+WebViewベースで自作してるので、不安定なところも多々ありますがちまちま修正していきます。
+
+バグなどはIssuesや私のDMで直接報告などしてもらえるとありがたいです！
+https://karotter.com/profile/Hakusaisan_8901
